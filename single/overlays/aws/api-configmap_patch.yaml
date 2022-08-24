@@ -4,7 +4,7 @@ data:
   database: 'files' 
   port: '26257'
 
-  cloud: 'aws'
+  cloud: 'aws1'
   cluster: 'prod-1' 
   deployment: 'single' 
 
