@@ -13,7 +13,7 @@ targetCustomizations:
 - name: aws
   clusterSelector:
     matchLabels:
-      env: aws
+      env: aws1
   yaml:
     overlays:
     # Refers to overlays/scale3 folder

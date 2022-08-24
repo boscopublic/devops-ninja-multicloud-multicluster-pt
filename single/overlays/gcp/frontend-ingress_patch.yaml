@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: app.multicloud.ml
+    - host: app.brewddy.me
       http:
         paths:
           - backend:

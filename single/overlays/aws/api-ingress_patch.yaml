@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: api.devops-ninja.ml
+    - host: api.brewddy.com
       http:
         paths:
           - path: /book

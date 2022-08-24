@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: app.devops-ninja.ml
+    - host: app.brewddy.com
       http:
         paths:
           - backend:

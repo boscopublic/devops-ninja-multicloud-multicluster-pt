@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: api.multicloud.ml
+    - host: api.brewddy.me
       http:
         paths:
           - path: /book

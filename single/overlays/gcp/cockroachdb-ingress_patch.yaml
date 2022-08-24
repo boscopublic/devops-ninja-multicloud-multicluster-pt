@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: cockroachdb.multicloud.ml
+    - host: cockroachdb.brewddy.me
       http:
         paths:
           - backend:
