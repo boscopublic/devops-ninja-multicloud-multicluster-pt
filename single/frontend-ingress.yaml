@@ -6,7 +6,7 @@ metadata:
   annotations:
 spec:
   rules:
-    - host: app.brewddy.com
+    - host: app.rancher
       http:
         paths:
           - backend:
