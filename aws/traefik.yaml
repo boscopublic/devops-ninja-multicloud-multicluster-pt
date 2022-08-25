@@ -19,7 +19,7 @@ metadata:
   namespace: kube-system
 spec:
   rules:
-  - host: traefik.brewdy.com
+  - host: traefik.brewddy.com
     http:
       paths:
       - path: /

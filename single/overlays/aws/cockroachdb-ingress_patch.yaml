@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: cockroachdb.brewddy.com1
+    - host: cockroachdb.brewddy.com
       http:
         paths:
           - backend:

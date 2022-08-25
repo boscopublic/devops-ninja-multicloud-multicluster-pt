@@ -1,6 +1,6 @@
 data:
   api.js: |
-    var api       = "https://api.brewddy.com1";
+    var api       = "https://api.brewddy.com";
     var VideoPath = "/video";
     var SongPath  = "/song";
     var BookPath  = "/book";
