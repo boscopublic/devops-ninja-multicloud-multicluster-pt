@@ -6,7 +6,7 @@ metadata:
   annotations:
 spec:
   rules:
-    - host: cockroachdb.rancher
+    - host: cockroachdb.brewddy.com
       http:
         paths:
           - backend:
