@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: api.brewddy.com
+    - host: api.brewddy.com1
       http:
         paths:
           - path: /book
