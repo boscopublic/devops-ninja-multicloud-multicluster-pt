@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: app.brewddy.com
+    - host: app.brewddy.com1
       http:
         paths:
           - backend:
