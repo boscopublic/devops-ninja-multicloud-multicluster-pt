@@ -10,7 +10,7 @@ metadata:
     traefik.frontend.rule.type: PathPrefixStrip
 spec:
   rules:
-    - host: api.rancher
+    - host: api.brewddy.com
       http:
         paths:
           - path: /book
